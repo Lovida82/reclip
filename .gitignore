@@ -1,0 +1,9 @@
+node_modules/
+.next/
+data/cookies.txt
+.env*
+*.pyc
+__pycache__/
+downloads/
+.team/
+.claude/
